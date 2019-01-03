@@ -7,8 +7,7 @@ This [website](https://walkccc.github.io/CLRS/) contains nearly complete solutio
 Hope to reorganize solutions to help more people and myself study algorithms. By using [Markdown (.md)](https://en.wikipedia.org/wiki/Markdown) files, it's much more readable on portable devices now.
 
 *"Many a little makes a mickle."*
-## 特别说明, 是从这里的github摘抄过来的, 只供自己学习参考使用,
-不作为什么盈利目的. 如有侵权, 请联系qq:438660228会及时删除.
+
 ## Contributors
 
 Thanks to: the Instructor's Manual by [Thomas H. Cormen](https://mitpress.mit.edu/contributors/thomas-h-cormen), [@skanev](https://github.com/skanev), [@CyberZHG](https://github.com/CyberZHG), [@yinyanghu](https://github.com/yinyanghu), @ajl213, etc.
